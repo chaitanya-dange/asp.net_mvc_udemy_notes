@@ -1,0 +1,17 @@
+26-Jan-2024
+----------------
+
+1.EntityFrameWork
+2.Microsoft sqlServer
+
+CRUD OPERATIONS:
+Seed Initial Data
+Routing
+Repository Pattern
+Date On Page Load
+Form Submission
+Notification
+Bootstrap
+WebAPI Controller
+Authentication and authorization using microsoft identity
+Role Base 

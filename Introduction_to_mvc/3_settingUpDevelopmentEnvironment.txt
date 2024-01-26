@@ -1,0 +1,8 @@
+26 Jan 2024
+------------
+
+Installing .net SDK  and .net Runtime
+
+Download and install visual studio 2022
+
+Download sqlServer download
