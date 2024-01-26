@@ -1,0 +1,20 @@
+26 Jan 2024
+-------------
+
+ASP.net support dependency injection software design pattern 
+
+to create property in modal class.
+            ----------------------
+shortcut ==> prop + (double tab)
+            ----------------------
+
+What is use of ICollection<> (for many to many relationship)  and what is used for One to One relationship ..            
+
+Installing Nuget Packages
+-> Microsoft.EntityFrameworkCore.SqlServer
+-> Microsoft.EntityFrameworkCore.Tools
+
+What is use of dbcontext class  in asp.net mvc , how to make it  ??
+
+
+
