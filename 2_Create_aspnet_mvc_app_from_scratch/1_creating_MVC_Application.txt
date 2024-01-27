@@ -16,5 +16,7 @@ Installing Nuget Packages
 
 What is use of dbcontext class  in asp.net mvc , how to make it  ??
 
-
+## Commands which will be used by EntityFrameWork to create the dataBase
+--> Add-Migration "Name of Migration"  --> Add-Migration "Initial Migration"
+--> Update-Database 
 
